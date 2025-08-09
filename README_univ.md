@@ -93,7 +93,7 @@ plt.show()
 
 
     
-![png](README_files/README_5_0.png)
+![png](README_univ_files/README_univ_5_0.png)
     
 
 
@@ -120,7 +120,7 @@ plt.show()
 
 
     
-![png](README_files/README_6_0.png)
+![png](README_univ_files/README_univ_6_0.png)
     
 
 
